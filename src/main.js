@@ -25,7 +25,7 @@ import './styles/iconfont.css'
 import VueParticles from 'vue-particles'
 // 引用选择树样式
 import '@riophae/vue-treeselect/dist/vue-treeselect.css'
-// svg
+// 引用svg
 import './icons/index'
 // 阻止事件的默认行为
 import 'default-passive-events'
